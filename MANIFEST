@@ -1,9 +1,11 @@
-MANIFEST
-MANIFEST.SKIP
+.gitignore
+app.psgi
+Changes
 lib/MogileFS/REST.pm
 lib/MogileFS/REST/DumbLogger.pm
-t/002_index_route.t
 Makefile.PL
-app.psgi
+MANIFEST
 README
-META.yml                                 Module meta-data (added by MakeMaker)
+t/002_index_route.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
